@@ -260,9 +260,9 @@ exports[`Upload List should non-image format file preview 1`] = `
             rel="noopener noreferrer"
             target="_blank"
           >
-            <i
-              class="anticon anticon-file"
-              style="font-size: 48px; color: rgba(0, 0, 0, 0.5);"
+            <img
+              alt="xxx.png"
+              src="data:application/zip;base64,UEsDBAoAAAAAADYZYkwAAAAAAAAAAAAAAAAdAAk"
             />
           </a>
           <a
